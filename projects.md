@@ -1,5 +1,6 @@
 ---
 layout: projects
+published: false
 title: Projects
 show_collection: projects
 description: >
