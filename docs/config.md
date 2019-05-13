@@ -1,6 +1,7 @@
 ---
 description: >
   This chapter covers the many configuration options of Hydejack, allowing you to tailor it to your needs.
+published: false
 hide_description: true
 ---
 

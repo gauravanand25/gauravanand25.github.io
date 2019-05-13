@@ -1,6 +1,7 @@
 ---
 description: >
   This chapter covers the basics of content creation with Hydejack.
+published: false
 hide_description: true
 ---
 

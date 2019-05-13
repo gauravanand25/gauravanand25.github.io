@@ -1,6 +1,7 @@
 ---
 description: >
   There are multiple ways of installing Hydejack and this document lays them out for you. The easiest way is with the Hydejack Starter Kit.
+published: false
 hide_description: true
 ---
 
