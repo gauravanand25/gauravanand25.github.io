@@ -1,0 +1,64 @@
+# The primary author of this blog.
+# Must be the same as `author` in `_config.yml`.
+# Change `author1` to your shortname.
+author1:
+  name:              Gaurav Anand
+  email:             ping@gauravanand.info
+
+  # Used at the bottom of each page and at the top of the `about` layout
+  # Markdown enabled, can use multiple paragraphs (enabled by `|`)
+  about:             |
+    Hi, I'm Gaurav Anand. Twitter [`@gaurav_anand25`](https://www.twitter.com/gaurav_anand25){:rel="me"}.
+
+  # This photo will be used in the about section
+  picture:
+    path:            https://placehold.it/128x128
+    # srcset is optional, but can be used to provide higher res versions for retina displays
+    srcset:
+      1x:            https://placehold.it/128x128
+      2x:            https://placehold.it/256x256
+
+  # Social media icons in sidebar
+  # Comment/uncommet to show/hide
+  # Rearrange to change the order in which they appear
+  social:
+    twitter:         gaurav_anand25
+    github:          gauravanand25
+    stackoverflow:   3702158/gauravanand25
+    hackernews:      gauravanand25
+
+    email:           ping@gauravanand.info  
+    facebook:        gauravanand25
+    rss:             https://gauravanand.info/feed.xml
+    instagram:       gauravanand25
+    # facebook:        <username>
+    # google:          <number>
+    # vk:              <username>
+    # youtube:         <string_string_string>
+    # vimeo:           <username>
+    # vine:            <username>
+    # spotify:         <user>/<number>
+    # soundcloud:      <username>
+    # lastfm:          <username>
+    # flickr:          <string@string>
+    # 500px:           <username>
+    # dribbble:        <username>
+    # behance:         <username>
+    # deviantart:      <username>
+    # ello:            <username>
+    # twitch:          <username>
+    # steam:           <number>
+    # reddit:          <username>
+    # tumblr:          <username>
+    # pinterest:       <username>
+    # foursquare:      <number>
+    # yelp:            <string>
+    # npm:             <username>
+    # trello:          <firstnamelastname>
+    # xing:            <firstname_lastname_counter>
+    # blogger:         <number>
+    # delicious:       <username>
+    # stumbleupon:     <username>
+    # paypal:          <username>
+    # download:        <url>
+
