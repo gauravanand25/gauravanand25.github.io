@@ -1,5 +1,6 @@
 ---
 layout: project
+published: false
 title: 'hy-drawer'
 date: 4 Sep 2016
 image: /assets/img/projects/hy-drawer.svg

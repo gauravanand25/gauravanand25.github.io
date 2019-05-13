@@ -1,5 +1,6 @@
 ---
 layout: project
+published: false
 title: 'hy-push-state'
 date: 5 Oct 2016
 image: /assets/img/projects/hy-push-state.svg

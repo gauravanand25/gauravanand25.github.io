@@ -1,5 +1,6 @@
 ---
 layout: project
+published: false
 title: 'hy-img'
 date: 1 Mar 2018
 image: /assets/img/projects/hy-img.svg
