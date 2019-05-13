@@ -1,5 +1,6 @@
 ---
 layout: post
+published: false
 title: Related Projects and Data Tables (v6.4)
 description: >
   In Hydejack v6.4 I've added a "Other Projects" section to the bottom of each project page,

@@ -1,5 +1,6 @@
 ---
 title: Introducing Dark Mode
+published: false
 image: /assets/img/blog/steve-harvey.jpg
 description: >
   The PRO version of Hydejack now includes an optional Dark Mode, making it the first Jekyll theme to include this feature.

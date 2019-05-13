@@ -1,5 +1,6 @@
 ---
 title: Introducing Hydejack 8
+published: false
 image: /assets/img/blog/hydejack-8.png
 description: >
   Hydejack 8 is the best version of Hydejack yet.
