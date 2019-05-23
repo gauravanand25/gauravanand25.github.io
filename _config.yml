@@ -79,16 +79,16 @@ paginate_path:         /blog/page-:num/
 
 # Sidebar image and theme color of the site.
 accent_image:          none #/assets/img/sidebar-bg.jpg
-accent_color:          rgb(188, 0, 16) # default origianl is rgb(79,177,186), 
-#Old blog: '#a5000f'
-#twitter '#9c000f'
-#ubuntu: '#e95420'
-
+accent_color:          rgb(165, 0, 16) # default origianl is rgb(79,177,186), 
+#Old blog: '#a5000f' rgb  (165, 0, 16)
+#twitter '#9c000f' rgb(156, 0, 16)
+# brigher '#bc000f' rgb(188, 0, 16)
+#quora: '#A82400' rgb(168, 36, 0)
 
 # This is used for the `theme-color` meta tag,
 # which changes the background color of the browser UI in certain browsers.
 # Defaults to `accent_color`.
-theme_color:           rgb(188, 0, 16) #rgb(25,55,71)
+theme_color:           rgb(165, 0, 16) #rgb(25,55,71)
 
 # The string encoding which fonts to fetch from Google Fonts.
 # See: <https://hydejack.com/docs/configuration/>
