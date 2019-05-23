@@ -58,6 +58,7 @@ education:
       - "Machine Learning (CMPSCI 689)"
       - "Mathematical Statistics I (STAT 607)"
       - "Computer Vision (CMPSCI 670)"
+      - "Probabilistic Graphical Models (CMPSCI 688)"
 # awards:
 #   - title: "Digital Compression Pioneer Award"
 #     date: "2014-11-01"
@@ -81,6 +82,13 @@ skills:
       - "Octave/MATLAB"
       - "LaTeX"
       - "HTML/CSS"
+  - name: "Applied Mathematics"
+    level: "Master"
+    keywords:
+      - "Tensorflow"
+      - "PyTorch"
+      - "NumPy"
+      - "CUDA C++"
   - name: "Web Development"
     level: "Master"
     keywords:
@@ -92,16 +100,16 @@ skills:
       - "Redis"
       - "DynamoDB"
       - "Redis"
-  - name: "Miscellaneous"
-    level: "Master"
-    keywords:
-      - "Tensorflow"
-      - "PyTorch"
-      - "NumPy"
-      - "CUDA C++"
+
 languages:
   - language: "English"
-    fluency: "Native speaker"
+    fluency: "Full Professional Proficiency"
+  - language: "Hindi"
+    fluency: "Professional Working Proficiency"
+  - language: "Sanskrit"
+    fluency: "Elementary Proficiency"
+  - language: "Punjabi"
+    fluency: "Elementary Proficiency"
 # interests:
 #   - name: "Chess"
 #     keywords:
