@@ -1,9 +1,9 @@
 ---
 layout: projects
-published: false
+published: true
 title: Projects
 show_collection: projects
 description: >
-  This is a demo of the `projects` layout, which is included in the PRO version of Hydejack.
+  Some of the projects and mini-projects.
 last_modified_at: 2018-08-03
 ---
