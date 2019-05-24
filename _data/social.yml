@@ -202,3 +202,15 @@ paypal:
 download:
   name: Download
   icon: icon-box-add
+chess:
+  name: Chess
+  icon: icon-chess
+  prepend: "https://www.chess.com/member/"
+codechef:
+  name: CodeChef
+  icon: icon-code
+  prepend: "https://www.codechef.com/users/"
+quora:
+  name: Quora
+  icon: icon-quora
+  prepend: "https://www.quora.com/profile/"
