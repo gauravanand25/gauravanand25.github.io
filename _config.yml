@@ -52,6 +52,8 @@ menu:
     url:               /blog/
   - title:             Projects
     url:               /projects/
+  - title:              About
+    url:               /about/
   - title:             Résumé
     url:               /resume/
   - title:             Twitter Feed
