@@ -1,4 +1,5 @@
 ---
+layout: page
 published: true
 title: Quotes
 ---
@@ -10,3 +11,5 @@ title: Quotes
 > "If our small minds, for some convenience, divide this universe, into parts -- physics, biology, geology, astronomy, psychology, and so on -- remember that nature does not know it!" --  Richard P. Feynman
 
 > "Confusion largely results from not following feelings or ideas to their depth." -- Alan Watts, Out of Your Mind - The Web of Life.
+
+> "There are some games you don't get to play unless you are all in." -- Jordan B. Peterson
