@@ -14,10 +14,14 @@ title: Quotes
 
 > "There are some games you don't get to play unless you are all in." -- Jordan B. Peterson
 
-<!-- > "In madness lies sanity" -- Alan Watts, The Wisdom of Insecurity -->
+> "In madness lies sanity" -- Alan Watts, The Wisdom of Insecurity
 
 > “Comfort is no test of truth. Truth is often far from being comfortable.” -- Swami Vivekananda
 
 > “An eye for an eye will only make the whole world blind.” -- Mahatma Gandhi
 
 > "And those who were seen dancing were thought to be insane by those who could not hear the music." --Friedrich Nietzsche
+
+> “Whatever is done for love always occurs beyond good and evil.” -- Friedrich Nietzsche, Beyond Good and Evil
+
+> "If you want to do a great or a good work, do not trouble to think what the result will be." -- Swami Vivekananda
