@@ -13,3 +13,11 @@ title: Quotes
 > "Confusion largely results from not following feelings or ideas to their depth." -- Alan Watts, Out of Your Mind - The Web of Life.
 
 > "There are some games you don't get to play unless you are all in." -- Jordan B. Peterson
+
+<!-- > "In madness lies sanity" -- Alan Watts, The Wisdom of Insecurity -->
+
+> “Comfort is no test of truth. Truth is often far from being comfortable.” -- Swami Vivekananda
+
+> “An eye for an eye will only make the whole world blind.” -- Mahatma Gandhi
+
+> "And those who were seen dancing were thought to be insane by those who could not hear the music." --Friedrich Nietzsche
