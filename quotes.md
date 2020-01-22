@@ -20,7 +20,7 @@ title: Quotes
 
 > “An eye for an eye will only make the whole world blind.” -- Mahatma Gandhi
 
-> "And those who were seen dancing were thought to be insane by those who could not hear the music." --Friedrich Nietzsche
+> "And those who were seen dancing were thought to be insane by those who could not hear the music." -- Friedrich Nietzsche
 
 > “Whatever is done for love always occurs beyond good and evil.” -- Friedrich Nietzsche, Beyond Good and Evil
 

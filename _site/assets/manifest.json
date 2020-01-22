@@ -4,7 +4,7 @@
   "short_name": "Gaurav Anand",
   "description": "Grad student in CS at UMass Amherst",
   "start_url": "/?utm_source=homescreen",
-  "theme_color": "rgb(188, 0, 16)",
+  "theme_color": "rgb(165, 0, 16)",
   "background_color": "#fff",
   "orientation": "portrait",
   "display": "standalone",

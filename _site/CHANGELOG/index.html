@@ -71,7 +71,7 @@ Powered by Hydejack v8.3.1 <https://hydejack.com/>
 <meta name="msapplication-config" content="/assets/ieconfig.xml">
 
 
-<meta name="theme-color" content="rgb(188, 0, 16)">
+<meta name="theme-color" content="rgb(165, 0, 16)">
 
 
 <meta name="generator" content="Hydejack v8.3.1" />
@@ -186,8 +186,8 @@ Powered by Hydejack v8.3.1 <https://hydejack.com/>
   id="_main"
   class="content fade-in layout-page"
   role="main"
-  data-color="rgb(188, 0, 16)"
-  data-theme-color="rgb(188, 0, 16)"
+  data-color="rgb(165, 0, 16)"
+  data-theme-color="rgb(165, 0, 16)"
   
     data-image="none"
     
@@ -209,7 +209,7 @@ Powered by Hydejack v8.3.1 <https://hydejack.com/>
 <h2 id="v830">v8.3.0</h2>
 <p class="heading post-date">Feb 18 2019</p>
 
-<p>This version adds new options to increase production build speed. Read <a href="/blog/hydejack/2019-02-18-improving-site-build-speed/">this post</a> for details.</p>
+<p>This version adds new options to increase production build speed. Read <a href="hydejack/_posts/2019-02-18-improving-site-build-speed.md">this post</a> for details.</p>
 
 <h3 id="added">Added</h3>
 <ul>
@@ -361,7 +361,7 @@ Note that this plugin will never run when building the site on GitHub Pages.</p>
   </li>
   <li>
     <p>Added experimental offline support via Service Workers. Use with care!
-For details, <a href="/docs/advanced/#enabling-offline-support">read the docs</a>.</p>
+For details, <a href="docs/advanced.md#enabling-offline-support">read the docs</a>.</p>
   </li>
   <li>
     <p>Added the <code class="highlighter-rouge">figure</code> CSS class, which allows images to have nicer-looking captions. E.g.</p>
@@ -678,7 +678,7 @@ Setting <code class="highlighter-rouge">scroll-table</code> on a larger table is
   </li>
   <li>
     <p>Event names described in the scripting chapter have changed from <code class="highlighter-rouge">y-push-state-*</code> to <code class="highlighter-rouge">hy-push-state-*</code>,
-except <code class="highlighter-rouge">y-push-state-animationend</code>, which has been removed. See the <a href="/docs/scripts/#registering-push-state-event-listeners">docs</a> for more.</p>
+except <code class="highlighter-rouge">y-push-state-animationend</code>, which has been removed. See the <a href="docs/scripts.md#registering-push-state-event-listeners">docs</a> for more.</p>
   </li>
 </ul>
 
@@ -911,7 +911,7 @@ the exact same text as the title of the page they are linking, e.g. <code class=
   <li>Reduced building time during development.
 Roughly 50% of the time was spent rebuilding the inline CSS, which is now built once and included via <code class="highlighter-rouge">link</code> tag.
 Production builds still inlines CSS, so the building speed remains unchanged.
-For more on how to improve building speeds, <a href="/docs/writing/#a-word-on-building-speeds">see here</a>.</li>
+For more on how to improve building speeds, <a href="docs/writing.md#a-word-on-building-speeds">see here</a>.</li>
 </ul>
 
 <h3 id="design-2">Design</h3>
@@ -1130,7 +1130,7 @@ If you have a <code class="highlighter-rouge">font</code> entry in <code class="
 making it easier for users to navigate through your collection and discover other projects.
 Also, it’s now possible to display larger (data-) tables that were previously cut off (especially on mobile devices).</p>
 
-<p>For more on how to add tables, see the new section in <a href="/docs/writing/">docs/writing</a>.</p>
+<p>For more on how to add tables, see the new section in <a href="docs/writing.md">docs/writing</a>.</p>
 
 <p>Smaller changes include a reduced usage of horizontal lines and a more “semantic” use of <code class="highlighter-rouge">hr</code> elements.
 Specifically, the semantics of the resume layout have been improved.</p>
@@ -1139,7 +1139,7 @@ Specifically, the semantics of the resume layout have been improved.</p>
 <ul>
   <li>Added “Other Projects” section to the bottom of the project layout (similar to “Related Posts”)</li>
   <li>Added CSS classes that make viewing larger (data-) tables possible</li>
-  <li>Added section on tables to <a href="/docs/writing/">docs/writing</a></li>
+  <li>Added section on tables to <a href="docs/writing.md">docs/writing</a></li>
   <li>Reduced use of <code class="highlighter-rouge">&lt;hr/&gt;</code> elements, using CSS borders instead.</li>
   <li>Improved semantic HTML of resume</li>
   <li>Follow favicon best practices and include example icons</li>
@@ -1179,7 +1179,7 @@ If an issue can’t be resolved, there’s now the option to disable push state 
   <li>Add <code class="highlighter-rouge">disable_push_state</code> option to <code class="highlighter-rouge">_config.yml</code></li>
   <li>Add <code class="highlighter-rouge">disable_drawer</code> option to <code class="highlighter-rouge">_config.yml</code></li>
   <li>Rename syntax highlighting file to <code class="highlighter-rouge">syntax.scss</code></li>
-  <li>Added <a href="/docs/scripts/">chapter on third party scripts</a> to documentation</li>
+  <li>Added <a href="docs/scripts.md">chapter on third party scripts</a> to documentation</li>
 </ul>
 
 <h3 id="design-5">Design</h3>
@@ -1247,13 +1247,13 @@ If an issue can’t be resolved, there’s now the option to disable push state 
   <li>Added <code class="highlighter-rouge">redirect</code> layout</li>
 </ul>
 
-<p>See the <a href="/docs/upgrade/">the migration guide</a> for instructions on how to upgrade.</p>
+<p>See the <a href="docs/upgrade.md">the migration guide</a> for instructions on how to upgrade.</p>
 
 <h3 id="minor-2">Minor</h3>
 <ul>
   <li>The “accent” font (heading font) is now used for all headings. This gives the theme a “bolder” look and was necessary for the animation: link =&gt; heading.</li>
   <li>Changed default text font from “PT Serif” to “Noto Serif”.</li>
-  <li>Added <a href="/docs/writing/">CSS classes</a> for styling markdown content.</li>
+  <li>Added <a href="docs/writing.md">CSS classes</a> for styling markdown content.</li>
   <li>Links have a new style. They now always display an underline to make the choice of the link color less critical (darker colors were hard to distinguish from regular text).</li>
   <li>Made social media icons larger and easier to tap.</li>
   <li>Social media icons are now also part of the “about” sections of a post.</li>
@@ -1436,7 +1436,7 @@ Future versions might address this, but it is the currency in which loading spee
 >
   <header id="_sidebar" class="sidebar" role="banner">
     
-    <div class="sidebar-bg " style="background-color:rgb(188, 0, 16);"></div>
+    <div class="sidebar-bg " style="background-color:rgb(165, 0, 16);"></div>
 
     <div class="sidebar-sticky">
       <div class="sidebar-about">
@@ -1488,6 +1488,18 @@ Future versions might address this, but it is the currency in which loading spee
       <li>
         <a
           
+          href="/about/"
+          class="sidebar-nav-item"
+          
+        >
+          About
+        </a>
+      </li>
+    
+      
+      <li>
+        <a
+          
           href="/resume/"
           class="sidebar-nav-item"
           
@@ -1500,11 +1512,35 @@ Future versions might address this, but it is the currency in which loading spee
       <li>
         <a
           
-          href="/docs/"
+          href="/twitter-feed/"
           class="sidebar-nav-item"
           
         >
-          Documentation
+          Twitter Feed
+        </a>
+      </li>
+    
+      
+      <li>
+        <a
+          
+          href="/gallery/"
+          class="sidebar-nav-item"
+          
+        >
+          Gallery
+        </a>
+      </li>
+    
+      
+      <li>
+        <a
+          
+          href="/quotes/"
+          class="sidebar-nav-item"
+          
+        >
+          Quotes
         </a>
       </li>
     
@@ -1563,6 +1599,30 @@ Future versions might address this, but it is the currency in which loading spee
     <a href="https://github.com/gauravanand25" title="GitHub" class="no-mark-external">
       <span class="icon-github"></span>
       <span class="sr-only">GitHub</span>
+    </a>
+  </li>
+
+
+    
+      
+
+
+
+  
+
+  
+  
+  
+  
+
+  
+
+  
+
+  <li>
+    <a href="https://www.linkedin.com/in/gauravanand25" title="LinkedIn" class="no-mark-external">
+      <span class="icon-linkedin2"></span>
+      <span class="sr-only">LinkedIn</span>
     </a>
   </li>
 
@@ -1656,9 +1716,57 @@ Future versions might address this, but it is the currency in which loading spee
   
 
   <li>
-    <a href="https://facebook.com/gauravanand25" title="Facebook" class="no-mark-external">
-      <span class="icon-facebook"></span>
-      <span class="sr-only">Facebook</span>
+    <a href="https://www.chess.com/member/gauravanand25" title="Chess" class="no-mark-external">
+      <span class="icon-chess"></span>
+      <span class="sr-only">Chess</span>
+    </a>
+  </li>
+
+
+    
+      
+
+
+
+  
+
+  
+  
+  
+  
+
+  
+
+  
+
+  <li>
+    <a href="https://www.quora.com/profile/Gaurav-Anand-32" title="Quora" class="no-mark-external">
+      <span class="icon-quora"></span>
+      <span class="sr-only">Quora</span>
+    </a>
+  </li>
+
+
+    
+      
+
+
+
+  
+
+  
+  
+  
+  
+
+  
+
+  
+
+  <li>
+    <a href="https://www.codechef.com/users/gauravanand25" title="CodeChef" class="no-mark-external">
+      <span class="icon-code"></span>
+      <span class="sr-only">CodeChef</span>
     </a>
   </li>
 
@@ -1683,30 +1791,6 @@ Future versions might address this, but it is the currency in which loading spee
     <a href="https://gauravanand.info/feed.xml" title="RSS" class="no-mark-external">
       <span class="icon-rss2"></span>
       <span class="sr-only">RSS</span>
-    </a>
-  </li>
-
-
-    
-      
-
-
-
-  
-
-  
-  
-  
-  
-
-  
-
-  
-
-  <li>
-    <a href="https://instagram.com/gauravanand25" title="Instagram" class="no-mark-external">
-      <span class="icon-instagram"></span>
-      <span class="sr-only">Instagram</span>
     </a>
   </li>
 
