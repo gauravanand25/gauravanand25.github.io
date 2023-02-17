@@ -12,12 +12,6 @@ title: Quotes
 
 > “Comfort is no test of truth. Truth is often far from being comfortable.” -- Swami Vivekananda
 
-> “An eye for an eye will only make the whole world blind.” -- Mahatma Gandhi
-
-> "There are some games you don't get to play unless you are all in." -- Jordan B. Peterson
-
-> “Whatever is done for love always occurs beyond good and evil.” -- Friedrich Nietzsche, Beyond Good and Evil
-
 > "Confusion largely results from not following feelings or ideas to their depth." -- Alan Watts, Out of Your Mind - The Web of Life.
 
 > "We put our hands over our eyes and weep that it is dark." -- Swami Vivekananda
